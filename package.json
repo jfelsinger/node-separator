@@ -1,0 +1,37 @@
+{
+  "name": "separator",
+  "version": "0.0.0",
+  "description": "Create separators in your console output",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jfelsinger/node-separator.git"
+  },
+  "keywords": [
+    "separator",
+    "console"
+  ],
+  "author": "Joel Felsinger <jffelsinger@gmail.com> (joelfredrick.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfelsinger/node-separator/issues"
+  },
+  "homepage": "https://github.com/jfelsinger/node-separator",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-browserify": "^0.5.0",
+    "gulp-jshint": "^1.9.0",
+    "gulp-mocha": "^2.0.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.0.2",
+    "mocha": "^2.1.0",
+    "should": "^4.4.2",
+    "sinon": "^1.12.2"
+  }
+}
