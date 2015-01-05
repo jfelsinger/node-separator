@@ -1,4 +1,4 @@
-#Separator
+#Separator [![Build Status](https://secure.travis-ci.org/jfelsinger/node-separator.png?branch=master)](https://travis-ci.org/jfelsinger/node-separator) [![Analytics](https://ga-beacon.appspot.com/UA-46797352-2/node-separator/index)](https://github.com/igrigorik/ga-beacon)
 
 Log separators to your console and what-not
 
